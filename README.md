@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-link to the app [https://mytodolist.cbaez1223.now.sh/]
+link to the [app] (https://mytodolist.cbaez1223.now.sh/)
 
 ## Available Scripts
 
